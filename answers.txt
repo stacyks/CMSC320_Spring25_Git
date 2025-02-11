@@ -9,3 +9,7 @@ Answer:Data Science could be applied to Real Estate. It can be used to help dete
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the changes from two branches into one, preserving the history of the source branch. However, rebasing moves a branch on top of the other branch, rewriting the history and creating a linear one.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking to learn more about the modeling and visualization process of data science, and learning what makes a strong EDA. I'm also looking forward to applying content from lectures towards real data to draw insight on fields I'm interested in like hospitality, urban living, and financial data.
