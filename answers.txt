@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Git provides a way for programmers to collaborate on a project at the same time and track their changes. By making it easy to revert changes or go to different branches, it makes debugging easier and makes changes more readable.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer:Data Science could be applied to Real Estate. It can be used to help determine how to price homes based on region, home features, household incomes, and acreage. This could help developers determine how to price new developments.
+
