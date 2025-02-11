@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer:Data Science could be applied to Real Estate. It can be used to help determine how to price homes based on region, home features, household incomes, and acreage. This could help developers determine how to price new developments.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the changes from two branches into one, preserving the history of the source branch. However, rebasing moves a branch on top of the other branch, rewriting the history and creating a linear one.
